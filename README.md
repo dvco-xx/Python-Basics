@@ -1,2 +1,2 @@
 # Python-Basics
-Just some basic python operators
+Some very basic python operations.
